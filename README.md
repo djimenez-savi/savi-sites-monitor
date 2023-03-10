@@ -1,7 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Savid](https://demo.upptime.js.org),
-powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Savi](https://demo.upptime.js.org),
 
 [![Uptime CI](https://github.com/djimenez-savi/savi-sites-monitor/workflows/Uptime%20CI/badge.svg)](https://github.com/djimenez-savi/savi-sites-monitor/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/djimenez-savi/savi-sites-monitor/workflows/Response%20Time%20CI/badge.svg)](https://github.com/djimenez-savi/savi-sites-monitor/actions?query=workflow%3A%22Response+Time+CI%22)

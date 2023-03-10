@@ -25,7 +25,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
   i18n:
-    footer: Hello footer
+    footer: powered by [Upptime](https://github.com/upptime/upptime)
 
 workflowSchedule:
   graphs: "0 0 * * *"
