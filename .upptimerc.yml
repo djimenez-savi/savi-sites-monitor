@@ -5,6 +5,9 @@ repo: savi-sites-monitor # The name of this repository
 sites:
   - name: Offermanager
     url: https://coupons.valassis.eu/capi
+    headers:
+      - "Authorization: BASIC $OM_BASIC_TOKEN"
+      - "Content-Type: application/json"
   - name: Gallery
     url: https://couponbeard.com/wobmobile
 
