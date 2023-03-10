@@ -25,6 +25,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://demo.upptime.js.org)
 
+<!--start: docs-->
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
