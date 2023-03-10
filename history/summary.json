@@ -1,3 +1,22 @@
 [
-
+  {
+    "name": "Offermanager",
+    "url": "https://coupons.valassis.eu/capi",
+    "icon": "https://icons.duckduckgo.com/ip3/coupons.valassis.eu.ico",
+    "slug": "offermanager",
+    "status": "down",
+    "uptime": "43.96%",
+    "uptimeDay": "43.96%",
+    "uptimeWeek": "43.96%",
+    "uptimeMonth": "43.96%",
+    "uptimeYear": "43.96%",
+    "time": 623,
+    "timeDay": 623,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
+  }
 ]
