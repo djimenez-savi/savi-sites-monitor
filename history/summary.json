@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/coupons.valassis.eu.ico",
     "slug": "offermanager",
     "status": "up",
-    "uptime": "44.79%",
+    "uptime": "44.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.25%",
-    "time": 947,
-    "timeDay": 1445,
-    "timeWeek": 1440,
-    "timeMonth": 1365,
-    "timeYear": 1098,
+    "uptimeYear": "61.53%",
+    "time": 950,
+    "timeDay": 1784,
+    "timeWeek": 1537,
+    "timeMonth": 1391,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2023-12-12": 696,
       "2023-12-11": 1440,
@@ -154,8 +154,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -170,9 +169,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.48%",
     "time": 1483,
-    "timeDay": 4041,
-    "timeWeek": 1574,
-    "timeMonth": 1991,
+    "timeDay": 1094,
+    "timeWeek": 1624,
+    "timeMonth": 2008,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2024-07-04": 21,
@@ -186,8 +185,7 @@
       "2024-01-26": 341,
       "2023-12-29": 50,
       "2023-12-28": 103,
-      "2023-07-27": 382,
-      "2023-07-26": 257
+      "2023-07-27": 382
     }
   }
 ]
