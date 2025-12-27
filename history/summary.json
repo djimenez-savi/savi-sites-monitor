@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/coupons.valassis.eu.ico",
     "slug": "offermanager",
     "status": "up",
-    "uptime": "72.89%",
+    "uptime": "72.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1464,
-    "timeDay": 2006,
-    "timeWeek": 1588,
-    "timeMonth": 1549,
-    "timeYear": 1505,
+    "time": 1466,
+    "timeDay": 1918,
+    "timeWeek": 1652,
+    "timeMonth": 1566,
+    "timeYear": 1507,
     "dailyMinutesDown": {
       "2025-03-04": 28
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/couponbeard.com.ico",
     "slug": "gallery",
     "status": "down",
-    "uptime": "98.62%",
+    "uptime": "98.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.22%",
-    "uptimeMonth": "91.27%",
+    "uptimeWeek": "49.96%",
+    "uptimeMonth": "87.99%",
     "uptimeYear": "97.66%",
-    "time": 1476,
-    "timeDay": 1392,
-    "timeWeek": 1708,
-    "timeMonth": 1493,
+    "time": 1470,
+    "timeDay": 845,
+    "timeWeek": 1701,
+    "timeMonth": 1499,
     "timeYear": 1468,
     "dailyMinutesDown": {
-      "2025-12-26": 113,
+      "2025-12-27": 111,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 613,
@@ -55,8 +56,7 @@
       "2025-09-05": 21,
       "2025-08-18": 40,
       "2025-02-03": 106,
-      "2025-01-20": 64,
-      "2024-12-27": 810
+      "2025-01-20": 64
     }
   }
 ]
