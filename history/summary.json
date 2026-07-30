@@ -22,17 +22,17 @@
     "url": "https://couponbeard.com/wobmobile",
     "icon": "https://icons.duckduckgo.com/ip3/couponbeard.com.ico",
     "slug": "gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.55%",
     "uptimeYear": "96.37%",
-    "time": 1490,
-    "timeDay": 744,
-    "timeWeek": 857,
-    "timeMonth": 1489,
-    "timeYear": 1541,
+    "time": 1489,
+    "timeDay": 689,
+    "timeWeek": 829,
+    "timeMonth": 1465,
+    "timeYear": 1539,
     "dailyMinutesDown": {
       "2025-08-18": 40,
       "2025-09-05": 21,
@@ -69,7 +69,8 @@
       "2026-06-21": 510,
       "2026-06-30": 127,
       "2026-07-15": 490,
-      "2026-07-14": 457
+      "2026-07-14": 457,
+      "2026-07-30": 0
     }
   }
 ]
