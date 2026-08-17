@@ -4,19 +4,19 @@
     "url": "https://coupons.valassis.eu/capi",
     "icon": "https://icons.duckduckgo.com/ip3/coupons.valassis.eu.ico",
     "slug": "offermanager",
-    "status": "down",
+    "status": "up",
     "uptime": "77.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1558,
-    "timeDay": 1142,
-    "timeWeek": 1401,
-    "timeMonth": 1478,
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
+    "time": 1559,
+    "timeDay": 1263,
+    "timeWeek": 1433,
+    "timeMonth": 1486,
     "timeYear": 1612,
     "dailyMinutesDown": {
-      "2026-08-17": 0
+      "2026-08-17": 67
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://couponbeard.com/wobmobile",
     "icon": "https://icons.duckduckgo.com/ip3/couponbeard.com.ico",
     "slug": "gallery",
-    "status": "down",
-    "uptime": "98.31%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "96.14%",
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "96.13%",
     "time": 1477,
-    "timeDay": 598,
-    "timeWeek": 2026,
-    "timeMonth": 1635,
-    "timeYear": 1598,
+    "timeDay": 627,
+    "timeWeek": 1927,
+    "timeMonth": 1613,
+    "timeYear": 1596,
     "dailyMinutesDown": {
       "2025-08-18": 40,
       "2025-09-05": 21,
@@ -76,7 +76,7 @@
       "2026-08-03": 496,
       "2026-08-02": 471,
       "2026-08-14": 71,
-      "2026-08-17": 0
+      "2026-08-17": 67
     }
   }
 ]
