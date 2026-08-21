@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/coupons.valassis.eu.ico",
     "slug": "offermanager",
     "status": "up",
-    "uptime": "78.01%",
+    "uptime": "78.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
@@ -24,17 +24,17 @@
     "url": "https://couponbeard.com/wobmobile",
     "icon": "https://icons.duckduckgo.com/ip3/couponbeard.com.ico",
     "slug": "gallery",
-    "status": "up",
+    "status": "down",
     "uptime": "98.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "96.14%",
     "time": 1480,
-    "timeDay": 1177,
-    "timeWeek": 2149,
-    "timeMonth": 1770,
-    "timeYear": 1615,
+    "timeDay": 908,
+    "timeWeek": 2041,
+    "timeMonth": 1744,
+    "timeYear": 1613,
     "dailyMinutesDown": {
       "2025-09-05": 21,
       "2025-10-06": 327,
@@ -75,7 +75,8 @@
       "2026-08-03": 496,
       "2026-08-02": 471,
       "2026-08-14": 71,
-      "2026-08-17": 67
+      "2026-08-17": 67,
+      "2026-08-21": 0
     }
   }
 ]
