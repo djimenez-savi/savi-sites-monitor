@@ -4,20 +4,20 @@
     "url": "https://coupons.valassis.eu/capi",
     "icon": "https://icons.duckduckgo.com/ip3/coupons.valassis.eu.ico",
     "slug": "offermanager",
-    "status": "down",
-    "uptime": "79.06%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "79.05%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.93%",
     "time": 1573,
-    "timeDay": 1244,
-    "timeWeek": 1426,
-    "timeMonth": 1480,
+    "timeDay": 1286,
+    "timeWeek": 1420,
+    "timeMonth": 1476,
     "timeYear": 1566,
     "dailyMinutesDown": {
       "2026-08-17": 67,
-      "2026-10-23": 0
+      "2026-10-23": 294
     }
   },
   {
